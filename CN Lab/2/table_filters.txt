@@ -1,0 +1,5 @@
+Request (ip.src == 192.168.1.8) && (ip.dst == 13.234.210.38)
+Response ip.src == 13.234.210.38
+lost tcp.analysis.retransmission
+
+13.234.176.102
